@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Dan Walker’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>399C9C91-B937-45CF-B029-6894E561D40D</string>
+	</array>
+	<key>uuid</key>
+	<string>037586AE-A9EB-4D3E-9371-CC1AFC7FAB2D</string>
+</dict>
+</plist>
